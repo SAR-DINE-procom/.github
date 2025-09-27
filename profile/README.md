@@ -1,14 +1,14 @@
 
-# SARD’INE — SAR' Drone Imaging for urbaN Environment
+# SAR'DINE — SAR' Drone Imaging for urbaN Environment
 
 <img width="128" height="128" alt="logo_sardine" src="https://github.com/user-attachments/assets/69c05f44-7447-4795-bd3e-786befafb0fa" />
 
 
-**SARD’INE** est un projet académique qui explore l’imagerie radar **SAR** (Synthetic Aperture Radar) à partir d’un essaim de drones pour cartographier un environement.  
+**SAR'DINE** est un projet académique qui explore l’imagerie radar **SAR** (Synthetic Aperture Radar) à partir d’un essaim de drones pour cartographier un environement.  
 
 ---
 
-## 𓆝  Pourquoi SARD’INE ?
+## 𓆝  Pourquoi SAR'DINE ?
 - **Observation tout temps** : le radar SAR “voit” à travers la nuit, la pluie ou la brume.
 - **Cartographie agile** : déploiement rapide d’un ou plusieurs drones selon la zone à couvrir.
 - **Cas d’usage** : gestion de crise, suivi d’infrastructures, études urbaINE et environnementales.
