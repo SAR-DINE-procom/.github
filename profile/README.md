@@ -42,14 +42,14 @@
 ---
 
 ## 👥 L’équipe
-- **Alexis Courbet**: FIPA3 - IMT Atlantique - TAF OPE
+- **Alexis COURBET**: FIPA3 - IMT Atlantique - TAF OPE
 - **Mikael FRANCO**: FIPA3 - IMT Atlantique - TAF OPE
 - **Maxence HUET**: FIPA3 - IMT Atlantique - TAF OPE
 - **Jean TRONET**: FIPA3 - IMT Atlantique - TAF STAR
 - **Samuel VIMARE**: FIPA3 - IMT Atlantique - TAF OPE   
 
 ## Encadrants 
-- **Dr. François GALEE**: IMT Atlantique - Dpt. MO
+- **Dr. François GALLEE**: IMT Atlantique - Dpt. MO
 - **Dr. Frédéric MAUSSANG**: IMT Atlantique - Dpt. MEE
 - **Dr. Dominique PASTOR**: IMT Atlantique - Dpt. MEE
 
