@@ -1,15 +1,16 @@
-# SARD’INES — SAR' Drone Imaging for urbaN Environment
+# SARD’INE — SAR' Drone Imaging for urbaN Environment
 
-<img width="128" height="128" alt="SARD’INES logo" src="https://github.com/user-attachments/assets/30dc7dd3-2a3d-44c5-b23b-fff78c0f0423" />
+<img width="128" height="128" alt="logo_sardine" src="https://github.com/user-attachments/assets/69c05f44-7447-4795-bd3e-786befafb0fa" />
 
-**SARD’INES** est un projet académique qui explore l’imagerie radar **SAR** (Synthetic Aperture Radar) à partir d’un essaim de drones pour cartographier un environement.  
+
+**SARD’INE** est un projet académique qui explore l’imagerie radar **SAR** (Synthetic Aperture Radar) à partir d’un essaim de drones pour cartographier un environement.  
 
 ---
 
-## 𓆝  Pourquoi SARD’INES ?
+## 𓆝  Pourquoi SARD’INE ?
 - **Observation tout temps** : le radar SAR “voit” à travers la nuit, la pluie ou la brume.
 - **Cartographie agile** : déploiement rapide d’un ou plusieurs drones selon la zone à couvrir.
-- **Cas d’usage** : gestion de crise, suivi d’infrastructures, études urbaines et environnementales.
+- **Cas d’usage** : gestion de crise, suivi d’infrastructures, études urbaINE et environnementales.
 
 ---
 
