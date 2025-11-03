@@ -1,5 +1,5 @@
 
-# SAR'DINE — SAR' Drone Imaging for urbaN Environment
+# SAR'DINE — SAR' Drones Imaging for urbaN Environment
 
 <img width="128" height="128" alt="logo_sardine" src="https://github.com/user-attachments/assets/69c05f44-7447-4795-bd3e-786befafb0fa" />
 
