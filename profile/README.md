@@ -25,7 +25,7 @@
 ## 𓆞  Dépôts principaux
 - **RF** — conception & intégration radar : https://github.com/SAR-DINE-procom/rf  
 - **Traitement** — algorithmes SAR : https://github.com/SAR-DINE-procom/traitement  
-- **Rapports** — LaTeX, biblio, supports : https://github.com/SAR-DINE-procom/rapports  (accès restreint)
+- **Rapports** — LaTeX, biblio, supports : https://github.com/SAR-DINE-procom/rapports
 
 
 ---
